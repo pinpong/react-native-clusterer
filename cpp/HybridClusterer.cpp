@@ -1,6 +1,6 @@
 #include "HybridClusterer.hpp"
 
-#include "jsiHelpers.hpp"
+#include "clustererJSIHelpers.hpp"
 
 namespace margelo::nitro::clusterer {
 jsi::Value HybridClusterer::load(jsi::Runtime &rt, const jsi::Value &_,
