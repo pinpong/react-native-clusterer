@@ -1,4 +1,4 @@
-#include "jsiHelpers.hpp"
+#include "clustererJSIHelpers.hpp"
 
 namespace margelo::nitro::clusterer {
 
